@@ -34,7 +34,3 @@ venv.bak/
 .DS_Store
 *.pyc
 *.sqlite3
-__pycache__
-*
-log
-.venv
